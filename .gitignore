@@ -6,3 +6,6 @@ myvenv
 
 # IDE
 .idea
+
+# pycache
+__pycache__
