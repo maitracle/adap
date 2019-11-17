@@ -1,0 +1,8 @@
+# db file
+db.sqlite3
+
+# env
+myvenv
+
+# IDE
+.idea
